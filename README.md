@@ -1,16 +1,37 @@
-## Hi there 👋
+# Michael ElBoateng — Cybersecurity Portfolio
 
-<!--
-**elbmichael/elbmichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring SOC Analyst | Cybersecurity undergraduate (Leeds)  
+Focus: network monitoring, log analysis, alert triage, incident reporting.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+**Network:** Nmap, Wireshark, tcpdump  
+**Logs/SIEM:** Windows Event Logs, Sysmon, Splunk (Free), Elastic  
+**Detection:** Suricata/Snort, Sigma rules (reading)  
+**OSINT/TI:** AbuseIPDB, VirusTotal, WHOIS  
+**Scripting:** Python (basics), Bash
+
+---
+
+## 📂 Case Studies (live)
+- **[Network Scanning & Recon (Nmap)](./network-scanning-nmap/report.md)** – Host discovery, service enum, risk summary.  
+- **[Windows Log Analysis (Splunk + Sysmon)](./windows-log-bruteforce/report.md)** – Detecting RDP/SSH brute force and failed logins.  
+- **[PCAP Investigation (Wireshark)](./pcap-c2-investigation/report.md)** – Suspicious outbound traffic → indicators & containment.
+
+> Each case study includes steps, commands, screenshots, findings, and SOC-style recommendations.
+
+---
+
+## 🎯 What I’m Practising
+- Alert triage: false positive vs. true positive
+- Writing clear, manager-ready incident notes
+- Building small detections (thresholds, simple correlations)
+
+---
+
+## 📫 Contact
+- Email: elboatengmichael@example.com
+- LinkedIn: www.linkedin.com/in/michael-elboateng
+
+
