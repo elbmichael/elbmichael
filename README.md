@@ -1,6 +1,6 @@
 # Michael ElBoateng — Cybersecurity Portfolio
 
-Aspiring SOC Analyst | Cybersecurity undergraduate (Leeds)  
+Aspiring SOC Analyst | Cybersecurity undergraduate 
 Focus: network monitoring, log analysis, alert triage, incident reporting.
 
 ---
@@ -31,7 +31,7 @@ Focus: network monitoring, log analysis, alert triage, incident reporting.
 ---
 
 ## 📫 Contact
-- Email: elboatengmichael@example.com
+- Email: elboatengmichael@gmail.com
 - LinkedIn: www.linkedin.com/in/michael-elboateng
 
 
